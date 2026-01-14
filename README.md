@@ -33,7 +33,3 @@ Query → Embedding Retrieval (Top-k DBs) → Modular Re-ranking → Final Ranki
 4. Break ties using semantic similarity
 
 
-
-## 📜 License
-
-MIT
